@@ -14,7 +14,7 @@ Excel: For data visualization and creating the dashboard.
 CSV: For data import into SQL Server.
 Getting Started
 Clone the Repository
-git clone https://github.com/Sumitmaaddheshiya/Pizza-Sales-Intelligence-Dashboard/blob/main/README.md
+git clone https://github.com/Sumitmaaddheshiya/Pizza-Sales-Intelligence-Dashboard
 
 Install SQL Server
 Ensure you have MS SQL Server installed on your system.
