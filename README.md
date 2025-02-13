@@ -21,7 +21,7 @@ This project creates an interactive **Pizza Sales Dashboard** using **MS SQL Ser
 ## Getting Started
 
 1. **Clone the Repository**  
-   `git clone https://github.com/your-username/Pizza-Sales-Dashboard.git](https://github.com/Sumitmaaddheshiya/Pizza-Sales-Intelligence-Dashboard
+   `git clone https://github.com/Sumitmaaddheshiya/Pizza-Sales-Intelligence-Dashboard
 
 2. **Install SQL Server**  
    Ensure you have **MS SQL Server** installed on your system.
