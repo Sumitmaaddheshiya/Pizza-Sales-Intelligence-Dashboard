@@ -37,5 +37,3 @@ This project creates an interactive **Pizza Sales Dashboard** using **MS SQL Ser
 This project helps you practice SQL for data validation and Excel for data visualization. It’s ideal for learning how to work with real-world business data, optimize queries, and design dashboards for decision-making.
 
 ---
-
-Let me know if you'd like any more adjustments! 😊
